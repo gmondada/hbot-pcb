@@ -7,3 +7,8 @@ This is the KiCad projet for a 24-RC-servo controller. It has been designed to c
 # The HBOT in action
 
 ![dance](https://raw.githubusercontent.com/gmondada/hbot-pcb/master/images/hbot-dance.gif)
+
+# License
+
+Copyright (c) 2019 Gabriele Mondada.
+Licensed under the [Creative Commons CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode).
